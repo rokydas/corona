@@ -1,0 +1,276 @@
+.div1{
+    max-width: 1250px;
+    margin: auto;
+    margin-top: 5px;
+    padding:10px;
+}
+
+.div1pic {
+    float: left;
+    padding: 5px;
+    margin-right: 10px;
+    height:50px;
+  }
+  
+.call{
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+}
+
+.test{
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    height:50px;
+}
+
+.div2{
+    background-image: url('https://corona.gov.bd/assets/new_design/img/banner-bg.jpg');
+    margin-top: 50px;
+}
+
+
+.red{
+    color: red;
+    font-size: large;
+}
+
+.upper-text{
+    font-size: 40px;
+}
+
+.text{
+    color: white;
+    float: left;
+    margin-right: 70px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.corona-test{
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: white;
+    width: 280px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn1{
+    margin-bottom: 15px;
+}
+
+.upper-text1{
+    color: red;
+    font-size: 2px;
+}
+
+.text2upper{
+    font-size: 20px;
+    color: red;
+}
+
+.text2lower{
+    font-size: 10px;
+}
+
+.text2{
+    margin-left: 70px;
+    padding-top: 7px;
+}
+
+.text3{
+    color: green;
+    font-size: 20px;
+}
+
+.text4{
+    color: green;
+    padding-top: 15px;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.leftbutton{
+    float: left;
+    margin-right: 20px;
+}
+
+.rightbutton{
+    float: left;
+}
+
+.leftdesign{
+    float: left;
+    margin-left: 30px;
+}
+
+.rightdesign{
+    float: left;
+    margin-left: 2px;
+}
+
+.pictureshow{
+    float: left;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.live{
+    background-color: red;
+    color: white;
+    float: left;
+    padding: 5px;
+    
+}
+
+.running{
+    background-color: whitesmoke;
+    float: left;
+    text-align: right;
+}
+
+.mar-text{
+    padding: 5px;
+}
+
+.left{
+    float: left;
+}
+
+.div4{
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.green{
+    color: green;
+    font-size: 25px;
+}
+
+.div5{
+    max-width: 1250px;
+    margin: 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.div5a{
+    background-color: #e6f6f5;
+    width: 300px;
+    height: 230px;
+    float: left;
+    margin-right: 12.5px;
+}
+
+.div5ai{
+    background-color:  #00a79d;
+    width: 240px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.midd-white{
+    margin: 0 auto;
+    color: white;
+    padding: 5px;
+}
+
+.div5aii{
+    float: left;
+    width: 130px;
+}
+
+.div5aiv{
+    margin: 0 auto;
+}
+
+.div5aiii{
+    float: right;
+    width: 130px;
+}
+
+.majenda{
+    color: #00a79d;
+}
+
+.div5b{
+    background-color: #fce8e9;
+    width: 300px;
+    height: 230px;
+    float: left;
+    margin-right: 12.5px;
+}
+
+.div5bi{
+    background-color:  #ed1b24;
+    width: 240px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.redd{
+    color: #ed1b24;
+}
+
+.div5c{
+    background-color: #e9f3da;
+    width: 300px;
+    height: 230px;
+    float: left;
+    margin-right: 12.5px;
+}
+
+.div5ci{
+    background-color:  #8dc73f;
+    width: 240px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.greenn{
+    color: #8dc73f;
+}
+
+.div5d{
+    background-color: #d3eef9;
+    width: 300px;
+    height: 230px;
+    float: left;
+    margin-right: 12.5px;
+}
+
+.div5di{
+    background-color:  #27aae2;
+    width: 240px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.bluee{
+    color: #27aae2;
+}
+
+.div4{
+    width: 27%;  
+}
+
+.graph-icon{
+    float: left;
+}
+
+.text-left{
+    margin-left: 20px;
+}
+
